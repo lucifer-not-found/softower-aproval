@@ -1,1 +1,2 @@
 key
+2-physical-4-logical-unameresultsystem=Windows-node=DESKTOP-B6M1O6O-release=10-version=10.0.19045-machine=AMD64Windows-10-10.0.19045-SP0AMD64Intel64-Family-6-Model-42-Stepping-7-GenuineIntel
